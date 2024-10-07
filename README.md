@@ -26,10 +26,6 @@
 
 ## Game Instructions:
 
-Here are the instructions to play your Flappy Bird game:
-
-### Instructions to Play:
-
 - Your goal is to control the bird and make it fly through gaps between the pipes without hitting them;
 
 - Press the SPACE key to make the bird jump upwards. If you don't press it, the bird will fall due to gravity;
