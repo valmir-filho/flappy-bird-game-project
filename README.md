@@ -4,7 +4,7 @@
 
 ## Content:
 
-- Tetris Game Project developed in Python.
+- Flappy Bird Game Project developed in Python.
 
 ## Instructions:
 
@@ -16,40 +16,36 @@
 
 - Create the Game File: Open a text editor (like VSCode, Sublime Text, or even Notepad);
   
-- Copy the Python code (tetris_game.py) into the editor;
+- Copy the Python code (flappy_bird_game.py) into the editor;
 
-- Save the file as tetris_game.py;
+- Save the file as flappy_bird_game.py;
 
-- Run the Game: Open your terminal (or Command Prompt) and navigate to the directory where you saved tetris_game.py;
+- Run the Game: Open your terminal (or Command Prompt) and navigate to the directory where you saved flappy_bird_game.py;
 
-- Run the game with: python3 tetris_game.py.
+- Run the game with: python3 flappy_bird_game.py.
 
 ## Game Instructions:
 
-- When you run the game, the Tetris screen will open, and the game will begin;
+Here are the instructions to play your Flappy Bird game:
 
-- If the game ends (the blocks reach the top), press any key to restart;
+### Instructions to Play:
 
-- Press the left arrow (←) key to move the current piece to the left;
+- Your goal is to control the bird and make it fly through gaps between the pipes without hitting them;
 
-- Press the right arrow (→) key to move the current piece to the right;
+- Press the SPACE key to make the bird jump upwards. If you don't press it, the bird will fall due to gravity;
+
+- You earn points each time the bird successfully passes through a set of pipes without crashing;
+   
+- The bird must avoid hitting the pipes, both the top and bottom sections. If the bird hits a pipe, the game restarts;
+
+- If the bird flies too high or falls off the screen, the game will restart;
+
+- If you collide with a pipe or go off-screen, the game will automatically restart, and you can try again;
+
+- Gravity continuously pulls the bird down, so you need to time your jumps using the SPACE key carefully;
+
+- The pipes move from right to left, and gaps between them stay the same, but their positions vary randomly;
   
-- Press the down arrow (↓) key to speed up the fall of the current piece. This also increases your score by 1 point per move down;
-  
-- Press the up arrow (↑) key to rotate the current piece;
-
-- Every time you move a piece down using the down arrow, your score increases by 1 point;
-  
-- The score will be displayed at the top right of the screen under score;
-
-- The next section at the right of the screen shows the next piece that will appear once the current piece is placed;
-
-- If the blocks reach the top of the screen and no more moves can be made, the game is over;
-  
-- The message "GAME OVER" will appear on the screen;
-
-- Press any key to reset and start a new game;
-
-- The goal of the game is to create complete horizontal lines with the falling Tetris blocks. Each time a line is completed, it will disappear, and you'll score points.
+- Enjoy the game and see how many points you can score.
 
 ### Used IDE: Visual Studio Code.
