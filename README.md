@@ -1,6 +1,6 @@
 # Flappy Bird Game Project.
 
-![image](https://github.com/user-attachments/assets/6dd9b9e3-2a56-4044-979f-ec79ac167873)
+![image](https://github.com/user-attachments/assets/b1a4d8de-b68f-4f76-bab5-601e1ce29864)
 
 ## Content:
 
